@@ -2,6 +2,8 @@
 
 ### This web application will let users type in a word and find out if that word is a palindrome (Definition: A palindrome is a word that reads the same backwords and forwards, such as 'madam' and 'racecar').
 
+![](img/palindrome-screenshot.png)
+
 ### Tech Used:
 
 - HTML
